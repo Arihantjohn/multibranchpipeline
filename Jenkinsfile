@@ -1,4 +1,4 @@
-node('built_in') 
+node('Built_in') 
 {
     stage('Continuous Download_goudru') 
 	{
